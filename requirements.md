@@ -1,3 +1,5 @@
+ **List<int> numbers = [10, 20, 30, 90, 75, 40]**
+ 
 01. Find the Maximum Element in an Array
 02. Reverse an Array
 03. Check if an Array is Sorted
