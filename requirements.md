@@ -7,3 +7,4 @@
 05. Count Occurrences of an Element
 06. Sum of Elements in an Array
 07. Remove Duplicates from Array
+08. Binary Search with given sorted array
